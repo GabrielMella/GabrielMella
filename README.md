@@ -1,4 +1,4 @@
-# Hello World! Welcome to my space! 😁
+# Welcome to my space! 😁
 
 ##### Sou um estudante de programação que ama técnologia!
 
