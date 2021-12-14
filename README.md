@@ -2,7 +2,6 @@
 
 ##### Sou um estudante de programação que ama técnologia!
 
-- 🎂 21 Anos
 - 💼 Atualmente trabalho como desenvolvedor FullSatck.
 - 📚 Graduação em Análise e Desenvolvimento de sistemas.
 - 💻 Estudante de Engenharia Reversa e Análise de Malwares.
