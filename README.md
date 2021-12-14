@@ -2,7 +2,7 @@
 
 ##### Sou um estudante de programação que ama técnologia!
 
-- 💼 Atualmente trabalho como desenvolvedor FullSatck.
+- 💼 Atualmente trabalho como desenvolvedor web FullSatck.
 - 📚 Graduação em Análise e Desenvolvimento de sistemas.
 - 💻 Estudante de Engenharia Reversa e Análise de Malwares.
 
