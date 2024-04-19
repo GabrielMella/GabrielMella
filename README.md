@@ -2,10 +2,10 @@
 
 ##### Sou um estudante de programação que ama técnologia!
 
-- 💼 Atualmente trabalho como desenvolvedor web Full Stack (Atuando com PHP, LARAVEL, JAVASCRIPT, PYTHON).
+- 💼 Atualmente trabalho como desenvolvedor web Full Stack (Atuando com PHP|LARAVEL|JAVASCRIPT|REACT|TYPESCRIPT).
 - 📚 Graduado em Análise e Desenvolvimento de sistemas.
 - 📚 Pós-graduado em Arquiterura de Software.
-- 📚 Cursando bacharel em Engenharia de Software.
+- 📚 Cursando bacharelado em Engenharia de Software.
 - 💻 Estudante de Engenharia Reversa e Análise de Malwares.
 
 <div>
