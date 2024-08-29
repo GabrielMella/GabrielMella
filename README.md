@@ -6,7 +6,7 @@
 - 📚 Graduated in Systems Analysis and Development.
 - 📚 Postgraduate in Software Architecture.
 - 📚 Pursuing a Bachelor's degree in Software Engineering.
-- 📚 Currently studying: Software Architecture, Golang
+- 📚 Currently studying: Software Architecture, Golang, Next.js, AWS and Kafka.
 
 <div>
 
