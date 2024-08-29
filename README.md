@@ -1,17 +1,18 @@
 # Welcome to my space! 😁
 
-##### Sou um estudante de programação que ama técnologia!
+##### I am a programming student who loves technology!
 
-- 💼 Atualmente trabalho como desenvolvedor web Full Stack (Atuando com PHP | LARAVEL | JAVASCRIPT | REACT | TYPESCRIPT).
-- 📚 Graduado em Análise e Desenvolvimento de sistemas.
-- 📚 Pós-graduado em Arquiterura de Software.
-- 📚 Cursando bacharelado em Engenharia de Software.
+- 💼 Currently working as a full-stack software engineer (Working with LARAVEL | TYPESCRIPT | REACT | NODE | NEST).
+- 📚 Graduated in Systems Analysis and Development.
+- 📚 Postgraduate in Software Architecture.
+- 📚 Pursuing a Bachelor's degree in Software Engineering.
+- 📚 Currently studying: Software Architecture, Golang
 
 <div>
 
 ##
 
-##### 🤖 Minha atividade no GitHub
+##### 🤖 My GitHub Activity
 
 <div style="display: inline_block;" align="center">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=GabrielMella&show_icons=true&theme=gotham&include_all_commits=true&count_private=true&border_radius=22"/>
@@ -24,28 +25,30 @@
  
  <div style="display: block;">
  <kbd align="center">
-      <kbd>Conhecimento em:</kbd>
+      <kbd>Knowledge in:</kbd>
       <br />
       <br />
-      <img align="center" title="PHP" alt="PHP"             height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
-      <img align="center" alt="laravel"                     height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
-      <img align="center" title="Python" alt="Python"       height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg">
-      <img align="center"  title="Javascript" alt="Js"      height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-      <img align="center"  title="React" alt="React"        height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-      <img align="center" title="HTML5" alt="HTML"          height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-      <img align="center"  title="CSS3" alt="CSS"           height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-      <img align="center" title="Bootstrap" alt="Bootstrap" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg">
-      <img align="center" title="Docker" alt="Docker"       height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      <img align="center" title="PHP"              height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-plain.svg">
+      <img align="center" title ="Laravel"         height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original-wordmark.svg" />
+      <img align="center" title="Javascript"       height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+      <img align="center" title="React"            height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+      <img align="center" title="TypeScript"       height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+      <img align="center" title="Nest.js"          height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" />
+      <img align="center" title="Docker"           height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+      <img align="center" title="Postgres"         height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+      <img align="center" title="Oracle"           height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" />
 <br />
 <br /> 
 </kbd>
 <kbd align="center">
-<kbd>Estudando:</kbd>
+<kbd>Currently learning:</kbd>
  <br />
  <br />
-    <img align="center" title="Flutter" alt="Flutter" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg">
-    <img align="center" title="Aws" alt="Aws"         height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
-    <img align="center" title="Kafka" alt="Kafka"         height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />  
+    <img align="center" title="AWS"     height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />
+    <img align="center" title="Kafka"   height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apachekafka/apachekafka-original-wordmark.svg" />
+    <img align="center" title="Next.js" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
+    <img align="center" title="Golang"  height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+          
  <br />
  <br />
 </kbd> 
@@ -53,9 +56,11 @@
  
  ##
  
-  ##### 💬 Meus contatos
+  ##### 💬 My Contacts
   
   <div>
     <a href="https://www.linkedin.com/in/gabrielangelomella" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href = "mailto:gabrielmella09@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  </div>
+
+---
